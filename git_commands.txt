@@ -1,0 +1,77 @@
+  Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\HP\AppData\...
+   2 clear
+   3 cd
+   4 clear
+   5 cd
+   6 cd
+   7 clea
+   8 clear
+   9 python testing.py
+  10 cd .\Github-For-Devops\
+  11 ls
+  12 clear
+  13 ls -l
+  14 clear
+  15 ls
+  16 clear
+  17 python .\testing.py
+  18 clear
+  19 ls
+  20 clea
+  21 clear
+  22 ls -l
+  23 clear
+  24 clear
+  25 clear
+  26 git init
+  27 dir
+  28 clear
+  29 dir
+  30 clear
+  31 git status
+  32 clear
+  33 dir
+  34 clear
+  35 git status
+  36 clear
+  37 git status
+  38 clear
+  39 clear
+  40 git add .\testing.py
+  41 git status
+  42 clear
+  43 clear
+  44 git status
+  45 git rm --cached .\testing.py     
+  46 git status
+  47 clear
+  48 git status
+  49 clear
+  50 clear
+  51 clear
+  52 git status
+  53 clear
+  54 git add .
+  55 clar
+  56 clear
+  57 git status
+  58 clear
+  59 git commit -m "Added Testing ...
+  60 git status
+  61 clear
+  62 rm .\testing.py
+  63 clear
+  64 ls
+  65 clear
+  66 ls
+  67 dir
+  68 clear
+  69 git status
+  70 git restore testing.py
+  71 ls
+  72 clear
+  73 clear
+  74 git status
+  75 clear
