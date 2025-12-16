@@ -21,6 +21,8 @@
   19 ls
   20 clea
   21 clear
+
+This is new line
   22 ls -l
   23 clear
   24 clear
