@@ -75,3 +75,52 @@
   73 clear
   74 git status
   75 clear
+   79 cleare
+  80 clear
+  81 git status
+  82 clear
+  83 git add .\git_commands.txt
+  84 git status
+  85 clear
+  86 clear
+  87 git commit -m "Added git commands"
+  88 git status
+  89 clear
+  90 git status
+  91 clear
+  92 git remote add origin https://github.com/rohitmankar1... 
+  93 git remote -v
+  94 clear
+  95 git push -u origin main
+  96 clear
+  97 git push master
+  98 clear
+  99 git remote -v
+ 100 clear
+ 101 clear
+ 102 git remote -v
+ 103 git remote set-url origin https://ghp_PL0ROHxxphtmS0V... 
+ 104 clear
+ 105 git push origin master
+ 106 git push origin main
+ 107 clear
+ 108 clear
+ 109 git status
+ 110 clear
+ 111 git add .
+ 112 git status
+ 113 clear
+ 114 git commit -m "Added successfully"
+ 115 clear
+ 116 git push origin main
+ 117 clea
+ 118 clear
+ 119 git status
+ 120 git add .
+ 121 clear
+ 122 git status
+ 123 clear
+ 124 git commit -m "Added Successfully"
+ 125 clear
+ 126 git push
+ 127 clear
